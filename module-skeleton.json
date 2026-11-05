@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-vr-design-filament",
+  "capabilityKey": "liberusoftware/real-estate-vr-design",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/real-estate-vr-design-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-vr-design.md",
+  "presentationPlan": "projects/real-estate/filament/real-estate-vr-design.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
